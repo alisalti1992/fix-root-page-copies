@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Plugin Name: Move Ahead Media Fix Root Page Copies
  * Plugin URI: https://github.com/moveaheadmedia/fix-root-page-copies/
@@ -9,4 +8,3 @@
  * Author URI: https://github.com/moveaheadmedia/
  *
  */
-
